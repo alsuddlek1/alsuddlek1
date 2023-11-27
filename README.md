@@ -1,6 +1,6 @@
 # Profile
 
-### 손민영
+### 👋 MIN YOUNG 👋 
 
 📧 minyoung99311@gmail.com
 
@@ -10,16 +10,13 @@
 
 💻 삼성 청년 SW 아카데미 9기
 
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-        <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=difault"> 
-</div>
-<br>
+<hr/>
 
-## 🔨 SKILLS 🔨
+<h3> 🔨 SKILLS </h3>
+<br/>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
   <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
+    <p><strong>🌈 Frontend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
@@ -31,19 +28,19 @@
         <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white">
     </div>
     <!-- Backend -->
-    <p><strong>Backend</strong></p>
+    <p><strong>💻 Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>
         <img src="https://img.shields.io/badge/sqlite-2307405e?style=flat-square&logo=sqlite&logoColor=white"/>
     </div>
     <!-- Development Tools -->
-    <p><strong>Development Tools</strong></p>
+    <p><strong>🔮 Development Tools</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
     </div>
     <!-- Collaboration Tools -->
-    <p><strong>Collaboration Tools</strong></p>
+    <p><strong>👨‍👩‍👧‍👦 Collaboration Tools</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -54,3 +51,10 @@
     </div>
   <br>
 </div>
+
+<h3> 💻 DEV's log</h3>
+<div style="display:flex; flex-direction:row;">
+        <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=difault"> 
+</div>
+<br>
+
