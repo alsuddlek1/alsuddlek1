@@ -12,10 +12,8 @@
 
 💻 삼성 청년 SW 아카데미 9기
 
-🐱[Github](https://github.com/alsuddlek1) 
-
 📓 기술블로그
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsuddlek1)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
