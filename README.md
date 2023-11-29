@@ -12,7 +12,7 @@
 
 <hr/>
 
-<h3> 🔨 SKILLS </h3>
+<h2> 🔨 SKILLS </h2>
 <br/>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
   <!-- Frontend -->
