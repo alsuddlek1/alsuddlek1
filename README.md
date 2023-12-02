@@ -1,5 +1,3 @@
-# Profile
-
 ### 👋 MIN YOUNG 👋 
 
 📧 minyoung99311@gmail.com
