@@ -52,7 +52,8 @@
 
 <h3> 💻 DEV's log</h3>
 <div style="display:flex; flex-direction:row;">
-        <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=difault"> 
+  <a href="[http://www.naver.com](https://alsuddlek.tistory.com/)"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=difault"> </a>  
+  
 </div>
 <br>
 
