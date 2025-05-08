@@ -40,11 +40,7 @@
       <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
     </div>
   <br>
-</div>
-
-<h3> 💻 DEV's log</h3>
-<div style="display:flex; flex-direction:row;">
-  <a href="https://alsuddlek.tistory.com/" style="text-decoration: none">🧡Tistory</a>  
+</div> 
   
 </div>
 <br>
